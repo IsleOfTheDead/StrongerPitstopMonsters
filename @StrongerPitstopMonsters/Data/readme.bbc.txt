@@ -8,7 +8,7 @@
 [b]* Make sure the .bikey has been copied into your server keys folder.[/b]
 
 [h2]GITHUB:[/h2]
-[url=https://github.com/IsleOfTheDead/Template]https://github.com/IsleOfTheDead/Template[/url]
+[url=https://github.com/IsleOfTheDead/StrongerPitstopMonsters]https://github.com/IsleOfTheDead/StrongerPitstopMonsters[/url]
 
 [h2]CONTACT:[/h2]
 [url=https://discord.gg/isleofthedead][img]https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png[/img][/url]

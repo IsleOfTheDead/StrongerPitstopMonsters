@@ -22,7 +22,7 @@ class CfgMods
     logoSmall="StrongerPitstopMonsters/data/logoSmall.paa";
     logo="StrongerPitstopMonsters/data/logo.paa";
     logoOver="StrongerPitstopMonsters/data/logoOver.paa";
-    action="https://steamcommunity.com/sharedfiles/filedetails/?id=";
+    action="https://steamcommunity.com/sharedfiles/filedetails/?id=3655231347";
     credits=["moldypenguins","Inkota"];
 		author="Azuryeoth";
 		authorID = "76561197970608700";
@@ -32,29 +32,7 @@ class CfgMods
     class defs
     {
       class engineScriptModule { value=""; files[]={ "StrongerPitstopMonsters/scripts/1_core" }; };
-      class worldScriptModule { value=""; files[]={ "StrongerPitstopMonsters/scripts/4_world" } }
+      class worldScriptModule { value=""; files[]={ "StrongerPitstopMonsters/scripts/4_world" }; };
     }
 	};
 };
-
-class CfgVehicles
-{
-  class PITSTOP_Monsters_Yeti_Base
-  {
-    class DamageSystem
-    {
-      class GlobalHealth { class Health { /* hitpoints=1500; */ hitpoints=6000; }; };
-      class DamageZones
-      {
-        class Head { class Health { /* hitpoints=600; */ hitpoints=2400; }; };
-        class Torso { class Health { /* hitpoints=3000; */ hitpoints=12000; }; };
-        class LeftArm { class Health { /* hitpoints=3000; */ hitpoints=12000; }; };
-        class RightArm { class Health { /* hitpoints=3000; */ hitpoints=12000; }; };
-        class LeftLeg { class Health { /* hitpoints=1350; */ hitpoints=5400; }; };
-        class RightLeg { class Health { /* hitpoints=1350; */ hitpoints=5400; }; };
-        class LeftFoot { class Health { /* hitpoints=1350; */ hitpoints=5400; } ;};
-        class RightFoot { class Health { /* hitpoints=1350; */ hitpoints=5400; }; };
-      };
-    }
-  }
-}

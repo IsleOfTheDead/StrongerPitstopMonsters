@@ -1,0 +1,10 @@
+name="StrongerPitstopMonsters";
+tooltip="StrongerPitstopMonsters";
+overview="Gives pitstop monsters 5x health.";
+picture="StrongerPitstopMonsters/data/picture.paa";
+logoSmall="StrongerPitstopMonsters/data/logoSmall.paa";
+logo="StrongerPitstopMonsters/data/logo.paa";
+logoOver="StrongerPitstopMonsters/data/logoOver.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=";
+author="Azuryeoth";
+version="1.0";

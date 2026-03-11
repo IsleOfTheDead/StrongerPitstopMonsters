@@ -14,7 +14,9 @@ Contains:
 
 ## Contact
 
-<img src="https://raw.githubusercontent.com/IsleOfTheDead/.github/main/images/discord.png" width="250" />
+<a href="https://discord.gg/ExileDeadZone">
+<img src="https://raw.githubusercontent.com/ExileDeadZone/.github/main/images/discord.png" />
+</a>
 
 ## Licenses
 

@@ -7,4 +7,4 @@ logo="StrongerPitstopMonsters/data/logo.paa";
 logoOver="StrongerPitstopMonsters/data/logoOver.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3655231347";
 author="Azuryeoth";
-version="1.0";
+version="1.1";

@@ -21,12 +21,12 @@ class CfgMods
 		picture="StrongerPitstopMonsters/data/picture.paa";
     logoSmall="StrongerPitstopMonsters/data/logoSmall.paa";
     logo="StrongerPitstopMonsters/data/logo.paa";
-    logoOver="StrongerPitstopMonsters/data/logoOver.paa";
+    logoOver="StrongerPitstopMonsters/data/logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3655231347";
     credits=["moldypenguins","Inkota"];
 		author="Azuryeoth";
 		authorID = "76561197970608700";
-		version="1.0";
+		version="1.1";
 		type="mod";
 		dependencies[]={ "World" };
     class defs
